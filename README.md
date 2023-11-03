@@ -62,3 +62,36 @@ masukanlah integer a = 1 (bisa dengan angka apa saja) di sini saya memulai denga
 
 ![Screenshot (317)](https://github.com/dzakki08/tugas-MKU-coding/assets/147239806/de4d278e-87f4-4951-89eb-4900514646ee)
 
+
+# PENJELASAN NOMOR 3
+
+        String name = "Muhammad Farhan Dzakki";
+        String NPM = "G1A023041";
+        System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+        System.out.println("NAMA :" + name);
+        System.out.println("NPM :" + NPM);
+        System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+
+sama seperti nomor-nomor sebelumnya code diatas digunakan untuk membuat nama dan NPM kita
+
+Scanner untuk melakukan input data
+
+        Scanner zodiak = new Scanner(System.in);
+        int tahun ;
+
+        System.out.println("Masukkan tanggal lahir (1-31) :  ");
+        int tanggal = zodiak.nextInt();
+
+        System.out.print("masukkan nama bulan (1-12) :  ");
+        int bulan = zodiak.nextInt();
+
+code Scanner digunakan untuk menginput data yang nanti akan kita masukkan misalnya seperti diatas, kita dapat memasukkan data tanggal dan bulan,jika kita ingin memasukkan data 2 ke dalam terminal dan nanti akan dibaca oleh program
+
+
+# PENJALANAN PROGRAM 3
+
+![image](https://github.com/dzakki08/tugas-MKU-coding/assets/147239806/de07af3e-54d4-4fc5-b790-03b7e8e9fba9)
+
+
+
+
