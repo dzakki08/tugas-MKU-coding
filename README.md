@@ -124,5 +124,47 @@ untuk memasukkan data kita menggunakan perulangan if dan else if,kegunaan if sam
 
 # PENJELASAN NOMOR 4
 
+        String name = "Muhammad Farhan Dzakki";
+        String NPM = "G1A023041";
+        System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+        System.out.println("NAMA :" + name);
+        System.out.println("NPM :" + NPM);
+        System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+
+seperti biasa pertama kita membuat nama dan npm untuk menunjukan identitas kita
+
+masukkan data yang kalian inginkan
+        
+        
+        String[] ArrayPemainRealMadrid23;
+        for (String s : ArrayPemainRealMadrid23 = new String[11]) ;
+
+        ArrayPemainRealMadrid23[0] = "Kepa";
+        ArrayPemainRealMadrid23[1] = "Camavinga";
+        ArrayPemainRealMadrid23[2] = "Rudiger";
+        ArrayPemainRealMadrid23[3] = "Alaba";
+        ArrayPemainRealMadrid23[4] = "Carvajal";
+        ArrayPemainRealMadrid23[5] = "Thouameni";
+        ArrayPemainRealMadrid23[6] = "Kross";
+        ArrayPemainRealMadrid23[7] = "Modric";
+        ArrayPemainRealMadrid23[8] = "Bellingham";
+        ArrayPemainRealMadrid23[9] = "Vini JR";
+        ArrayPemainRealMadrid23[10] = "Rodrygo";
+
+masukkan data array dengan perulangan for seperti code diatas dan tentukan berapa data yang ingin dimasukkan disana saya memasukkan untuk 11 data dan di bawahnya kita input data seperti diatas saya memasukkan data nama pemain real madrid musim ini 23/24.HALA MADRID kwkkw
+
+perulangan for untuk print
+
+        for (int i = 0; i < ArrayPemainRealMadrid23.length; i++) {
+            System.out.println(ArrayPemainRealMadrid23[i]);
+
+gunakan perulangan for untuk melakukan print dengan kode seperti diatas lalu Syout data yang kita input tadi yaitu ArrayPemainRealMadrid23[i] lalu kalian bisa menjalankan program .
+
+# PENJALANAN PROGRAM 4
+
+![Screenshot (319)](https://github.com/dzakki08/tugas-MKU-coding/assets/147239806/8f0d1a31-7bbd-4c01-a93d-6388d48eb7b2)
+
+
+SEKIAN TERIMA KASIH :)
 
 
